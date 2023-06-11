@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/hogwarts-shop/static/css/main.475fe719.css",
+    "main.js": "/hogwarts-shop/static/js/main.598e945e.js",
+    "static/media/hogwarts.jpg": "/hogwarts-shop/static/media/hogwarts.f08823f06154702060d5.jpg",
+    "static/media/shelves.jpg": "/hogwarts-shop/static/media/shelves.8837d2e40762e6131208.jpg",
+    "static/media/love-elixir.png": "/hogwarts-shop/static/media/love-elixir.cdb9637d20ec27e767cf.png",
+    "static/media/green-elixir.png": "/hogwarts-shop/static/media/green-elixir.e48051e74367f7fdb9e3.png",
+    "static/media/blue-elixir.png": "/hogwarts-shop/static/media/blue-elixir.a702ecbdde44cd2e9cbf.png",
+    "static/media/red-elixir.png": "/hogwarts-shop/static/media/red-elixir.db44e2efdb96e688ccbc.png",
+    "static/media/yellow-elixir.png": "/hogwarts-shop/static/media/yellow-elixir.3505ec6a7ddb749ee224.png",
+    "static/media/purple-elixir.png": "/hogwarts-shop/static/media/purple-elixir.1d8b4902fec725542d7e.png",
+    "static/media/button.jpg": "/hogwarts-shop/static/media/button.8aee3abb0ba9aa40496a.jpg",
+    "static/media/HarryP-MVZ6w.ttf": "/hogwarts-shop/static/media/HarryP-MVZ6w.a65869c0c1a4b3d4fcfc.ttf",
+    "static/media/Harrypotter7-242K.ttf": "/hogwarts-shop/static/media/Harrypotter7-242K.3c3bcb1d09f5f5596d52.ttf",
+    "index.html": "/hogwarts-shop/index.html",
+    "main.475fe719.css.map": "/hogwarts-shop/static/css/main.475fe719.css.map",
+    "main.598e945e.js.map": "/hogwarts-shop/static/js/main.598e945e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.475fe719.css",
+    "static/js/main.598e945e.js"
+  ]
+}
